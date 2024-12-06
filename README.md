@@ -1,4 +1,3 @@
-
 # Sobre mim.
 
 ### Meu nome é Leonardo. Tenho 1* Anos e sou DEV a mais ou menos 2 anos. Minha primeira linguagem de programção foi Python, logo após aprendi HTML5/CSS3/JS, PHP e também tenho algumas skills com C++ para Arduino/ESP-32. Entusiasta de criptomoedas e amante de matemática. Também tenho habilidades com hacking e nas horas vagas gosto de mexer com hardware.
@@ -19,8 +18,5 @@
 ![BITCOIN](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![ETHEREUM](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ## Estatísticas:
-![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username={leodacibersecurity}&theme=blue-green
+![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username=leodacibersecurity&theme=blue-green
 )
-
-## Entre no server da Mansão Dev:
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)(https://discord.gg/mansao-dev-1132161173484224642) 
