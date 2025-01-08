@@ -1,6 +1,6 @@
 # Sobre mim.
 
-### Meu nome é Leonardo. Tenho 1* Anos e sou """DEV""" a mais ou menos 2 anos. Minha primeira linguagem de programção foi Python, logo após aprendi HTML5/CSS3/JS, PHP e também tenho algumas skills com C++ para Arduino/ESP-32. Entusiasta de criptomoedas e amante de matemática. Também tenho habilidades com hacking e nas horas vagas gosto de mexer com hardware.
+### Meu nome é Leonardo. Tenho 1* Anos e sou """DEV""" a um tempo. Minha primeira linguagem de programção foi Python, logo após aprendi HTML5/CSS3/JS, PHP e também tenho algumas skills com C++ para Arduino/ESP-32. Entusiasta de criptomoedas e amante de matemática. Também tenho habilidades com hacking e nas horas vagas gosto de mexer com hardware.
 
 ## Sistemas operaconais:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
